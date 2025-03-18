@@ -95,15 +95,6 @@ const Team = () => {
         }
       },
       {
-        name: 'Shreeshant Prasad',
-        role: 'Technical Team',
-        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344653/IMG_20241113_172609863_pg6tyk.jpg',
-        social: {
-          linkedin: 'https://www.linkedin.com/in/shreeshant-prasad-1b1656297/',
-          instagram:'https://www.instagram.com/shreeshant_26'
-        }
-      },
-      {
         name: 'Anshika Saxena',
         role: 'Public Relations Team',
         image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337946/tpj7colvdm4neyuycjuk.jpg',
@@ -131,6 +122,15 @@ const Team = () => {
         }
       },
       {
+        name: 'Piyush Bhardwaj',
+        role: 'Event Management Head',
+        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337945/skoyacaeirixaaciwuhz.png',
+        social: {
+          linkedin: 'https://www.linkedin.com/in/piyush-bhardwaj-2a6b98247',
+         instagram: 'https://www.instagram.com/__piyushh____'
+        }
+      },
+      {
         name: 'Ankur Singh',
         role: 'Ambassador Head',
         image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337946/xlyk7salvhqbihkajz41.png',
@@ -139,13 +139,13 @@ const Team = () => {
           instagram:'https://www.instagram.com/oye_its_ankur'
         }
       },
-      {
-        name: 'Piyush Bhardwaj',
-        role: 'Event Management Head',
-        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337945/skoyacaeirixaaciwuhz.png',
+        {
+        name: 'Shreeshant Prasad',
+        role: 'Technical Team',
+        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344653/IMG_20241113_172609863_pg6tyk.jpg',
         social: {
-          linkedin: 'https://www.linkedin.com/in/piyush-bhardwaj-2a6b98247',
-         instagram: 'https://www.instagram.com/__piyushh____'
+          linkedin: 'https://www.linkedin.com/in/shreeshant-prasad-1b1656297/',
+          instagram:'https://www.instagram.com/shreeshant_26'
         }
       },
       {
