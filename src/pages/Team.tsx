@@ -8,7 +8,7 @@ const Team = () => {
     mentor:[
       {
         name:'Prof. (Dr) Avadhesh Kumar',
-        role:'Pro Vice Chancellor',
+        role:'Pro Vice Chancellor Galgotias University',
         image:'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344841/pvc_curluo.png',
         social:{
           linkedin:'https://www.linkedin.com/in/avadhesh-kumar-3a0b2b1b4/',
@@ -16,8 +16,8 @@ const Team = () => {
         }},
 
         {
-          name: 'Dr. Kamal Kishore Malhotra',
-          role: 'CEO',
+          name: 'Dr. Kamal Kishor Malhotra',
+          role: 'CEO GIC Rise',
           image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
           social: {
             linkedin: 'https://www.linkedin.com/in/kamal-kishor-malhotra-bb76a221a',
@@ -26,7 +26,7 @@ const Team = () => {
       },
         {
           name: 'Mr. Sonu Kadam',
-          role: 'Incubation Manager',
+          role: 'Incubation Manager GIC Rise',
           image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
           social: {
             linkedin: 'https://www.linkedin.com/in/kamal-kishor-malhotra-bb76a221a',
@@ -35,7 +35,7 @@ const Team = () => {
       },
         {
           name: 'Mr. Saurabh Arya',
-          role: 'Marketing Manager',
+          role: 'Marketing Manager GIC Rise',
           image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
           social: {
             linkedin: 'https://www.linkedin.com/in/kamal-kishor-malhotra-bb76a221a',
@@ -95,15 +95,6 @@ const Team = () => {
         }
       },
       {
-        name: 'Shreeshant Prasad',
-        role: 'Technical Team',
-        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344653/IMG_20241113_172609863_pg6tyk.jpg',
-        social: {
-          linkedin: 'https://www.linkedin.com/in/shreeshant-prasad-1b1656297/',
-          instagram:'https://www.instagram.com/shreeshant_26'
-        }
-      },
-      {
         name: 'Anshika Saxena',
         role: 'Public Relations Team',
         image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337946/tpj7colvdm4neyuycjuk.jpg',
@@ -131,6 +122,15 @@ const Team = () => {
         }
       },
       {
+        name: 'Piyush Bhardwaj',
+        role: 'Event Management Head',
+        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337945/skoyacaeirixaaciwuhz.png',
+        social: {
+          linkedin: 'https://www.linkedin.com/in/piyush-bhardwaj-2a6b98247',
+         instagram: 'https://www.instagram.com/__piyushh____'
+        }
+      },
+      {
         name: 'Ankur Singh',
         role: 'Ambassador Head',
         image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337946/xlyk7salvhqbihkajz41.png',
@@ -139,13 +139,13 @@ const Team = () => {
           instagram:'https://www.instagram.com/oye_its_ankur'
         }
       },
-      {
-        name: 'Piyush Bhardwaj',
-        role: 'Event Management Head',
-        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337945/skoyacaeirixaaciwuhz.png',
+        {
+        name: 'Shreeshant Prasad',
+        role: 'Technical Team',
+        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344653/IMG_20241113_172609863_pg6tyk.jpg',
         social: {
-          linkedin: 'https://www.linkedin.com/in/piyush-bhardwaj-2a6b98247',
-         instagram: 'https://www.instagram.com/__piyushh____'
+          linkedin: 'https://www.linkedin.com/in/shreeshant-prasad-1b1656297/',
+          instagram:'https://www.instagram.com/shreeshant_26'
         }
       },
       {
