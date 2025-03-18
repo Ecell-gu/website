@@ -11,8 +11,8 @@ const navItems = [
   // { path: '/gallery', label: 'Gallery' },
   { path: '/startup-community', label: 'Startup Community' },
   { path: '/team', label: 'Team' },
-  { path: '/join-us', label: 'Join as Member' },
-  { path: '/join-us', label: 'Join as Organisation' },
+  { path: 'https://forms.gle/m5iZBDzBk2BRnW6K8', label: 'Join as Member' },
+  { path: 'https://forms.gle/4TF3u8eY5CSsc2Jv9', label: 'Join as Organisation' },
 
 ];
 
