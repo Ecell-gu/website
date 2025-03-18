@@ -8,7 +8,7 @@ const Team = () => {
     mentor:[
       {
         name:'Prof. (Dr) Avadhesh Kumar',
-        role:'Pro Vice Chancellor Galgotias University',
+        role:'Pro Vice Chancellor \n Galgotias University',
         image:'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344841/pvc_curluo.png',
         social:{
           linkedin:'https://www.linkedin.com/in/avadhesh-kumar-3a0b2b1b4/',
