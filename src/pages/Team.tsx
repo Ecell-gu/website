@@ -8,7 +8,7 @@ const Team = () => {
     mentor:[
       {
         name:'Prof. (Dr) Avadhesh Kumar',
-        role:'Pro Vice Chancellor \n Galgotias University',
+        role:'Pro Vice Chancellor Galgotias University',
         image:'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740344841/pvc_curluo.png',
         social:{
           linkedin:'https://www.linkedin.com/in/avadhesh-kumar-3a0b2b1b4/',
@@ -187,7 +187,7 @@ const Team = () => {
             </div>
             <div className="p-6">
               <h3 className="text-lg font-semibold mb-1 text-gray-100">{member.name}</h3>
-              <p className="text-blue-300 mb-4">{member.role}</p>
+              <p className="text-blue-250 mb-4">{member.role}</p>
               <div className="flex space-x-4">
                 {member.social.linkedin && (
                   <motion.a
