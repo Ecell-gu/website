@@ -186,8 +186,8 @@ const Team = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-1 text-gray-100">{member.name}</h3>
-              <p className="text-blue-400 mb-4">{member.role}</p>
+              <h3 className="text-lg font-semibold mb-1 text-gray-100">{member.name}</h3>
+              <p className="text-blue-300 mb-4">{member.role}</p>
               <div className="flex space-x-4">
                 {member.social.linkedin && (
                   <motion.a
