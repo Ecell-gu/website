@@ -187,7 +187,7 @@ const Team = () => {
             </div>
             <div className="p-6">
               <h3 className="text-lg font-semibold mb-1 text-gray-100">{member.name}</h3>
-              <p className="text-blue-250 mb-4">{member.role}</p>
+              <p className="text-blue-280 mb-4">{member.role}</p>
               <div className="flex space-x-4">
                 {member.social.linkedin && (
                   <motion.a
