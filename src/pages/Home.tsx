@@ -131,7 +131,7 @@ const Home = () => {
                 />
                 <div className="p-6">
                   <h3 className="text-xl font-semibold mb-2 text-gray-100">{event.title}</h3>
-                  <p className="text-gray-300 mb-4">{event.date}</p>
+                  {/* <p className="text-gray-300 mb-4">{event.date}</p> */}
                   <a
                     href="/events"
                     className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center"
