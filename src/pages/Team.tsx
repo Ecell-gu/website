@@ -58,7 +58,7 @@ const Team = () => {
       {
         name: 'Anshu Raj',
         role: 'Vice President',
-        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337946/uw5s0lf0agzj1cydoya6.png',
+        image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1742378260/Anshu_Raj0_v5baqp.png',
         social: {
           linkedin: 'https://www.linkedin.com/in/anshu-raj2006',
           instagram: 'https://www.instagram.com/tech_anshraj',
