@@ -90,8 +90,7 @@ const Team = () => {
         image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337945/xhzikyd7yd1whsavkhco.png',
         social: {
           linkedin: 'https://www.linkedin.com/in/tanishqa-giri-b29a15260',
-          twitter: '#',
-          email: 'mailto:john@example.com'
+          instagram:'https://www.instagram.com/pvt_tanishqa.g'
         }
       },
       {
@@ -153,9 +152,8 @@ const Team = () => {
         role: 'Media Team Head',
         image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1740337946/roawr5fexwkqbsg7ihyc.jpg',
         social: {
-          linkedin: 'https://www.linkedin.com/in/piyush-bhardwaj-2a6b98247',
-          twitter: '#',
-          email: 'mailto:john@example.com'
+          linkedin: 'https://www.linkedin.com/in/karan-chauhan-0694a9256',
+          instagram:'https://www.instagram.com/_karannn777'
         }
       },
 
