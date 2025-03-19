@@ -18,7 +18,7 @@ const Team = () => {
         {
           name: 'Dr. Kamal Kishor Malhotra',
           role: 'CEO GIC Rise',
-          image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
+          image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1742376207/Kamal-Kishor-Malhotra_vv4m8i.png',
           social: {
             linkedin: 'https://www.linkedin.com/in/kamal-kishor-malhotra-bb76a221a',
             instagram: 'https://www.instagram.com/malhotrakamalk',
@@ -27,7 +27,7 @@ const Team = () => {
         {
           name: 'Mr. Sonu Kadam',
           role: 'Incubation Manager GIC Rise',
-          image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
+          image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1742376207/Sonu-Kadam_l4da5s.png',
           social: {
             linkedin: 'https://www.linkedin.com/in/kamal-kishor-malhotra-bb76a221a',
             instagram: 'https://www.instagram.com/kamalkishormalhotra/',
@@ -36,7 +36,7 @@ const Team = () => {
         {
           name: 'Mr. Saurabh Arya',
           role: 'Marketing Manager GIC Rise',
-          image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
+          image: 'https://res.cloudinary.com/dj7ey49h9/image/upload/v1742376210/sourabh_arya_fybvmy.png',
           social: {
             linkedin: 'https://www.linkedin.com/in/kamal-kishor-malhotra-bb76a221a',
             instagram: 'https://www.instagram.com/sourabh_arya4',
