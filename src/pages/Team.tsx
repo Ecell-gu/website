@@ -193,7 +193,7 @@ const Team = () => {
                   <motion.a
                     whileHover={{ scale: 1.2 }}
                     href={member.social.linkedin}
-                    className="text-gray-400 hover:text-blue-400 transition-colors"
+                    className="text-gray-280 hover:text-blue-400 transition-colors"
                   >
                     <Linkedin className="h-5 w-5" />
                   </motion.a>
